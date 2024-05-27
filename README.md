@@ -14,6 +14,15 @@
 - [x] 基数排序（Radix Sort）[[RadixSort.java](src/main/java/com/luckycode/code4work/algorithm/sort/RadixSort.java)]：按照低位先排序，然后收集；再按照高位排序，然后再收集，以此类推，直到最高位。时间复杂度为 O(nk)，其中 k 是最大的数位数。可以看做是计数排序或者桶排序的扩展
 
 
+# 查找算法
+- [x] 二分查找（Binary Search）[[BinarySearch.java](src/main/java/com/luckycode/code4work/algorithm/search/BinarySearch.java)]：在有序数组中查找元素，通过每次比较中间元素将搜索范围缩小一半。
+- [x] 插值查找（Interpolation Search）[[InterpolationSearch.java](src/main/java/com/luckycode/code4work/algorithm/search/InterpolationSearch.java)]：适用于有序且分布均匀的数据集，根据元素值在数组中的位置进行估算，核心的思想，在二分查找的基础上跳过某些值的判断，核心的公式为：pos=low+(
+  arr[high]−arr[low]
+  key−arr[low]
+  ​
+  )×(high−low) 
+- 
+
 # 场景解决方案
 - [x] [消费订单过期的解决方案.md](note/消费订单过期的解决方案.md)
 - [x] [重复提交问题解决方案.md](note/重复提交问题解决方案.md)
