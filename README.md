@@ -21,13 +21,14 @@
   key−arr[low]
   ​
   )×(high−low) 
-- 
-
+- [x] 指数查找（Exponential Search）[[ExponentialSearch.java](src/main/java/com/luckycode/code4work/algorithm/search/ExponentialSearch.java)]：结合了指数计算、二分查找和线性查找，首先通过指数计算估计元素的位置，然后进行二分查找，如果查找不到，再进行线性查找。
+- [x] 分块查找（Block Search）[[BlockSearch.java](src/main/java/com/luckycode/code4work/algorithm/search/BlockSearch.java)]：又称索引顺序查找，将数据分为多个块，每块内部有序，通过块索引快速定位到块，然后在块内进行线性查找。
 # 场景解决方案
 - [x] [消费订单过期的解决方案.md](note/消费订单过期的解决方案.md)
 - [x] [重复提交问题解决方案.md](note/重复提交问题解决方案.md)
 - [x] [唯一订单号生成方案.md](note/唯一订单号生成方案.md)
 - [x] [核心热点数据更新如何保证准确性.md](note/核心热点数据更新如何保证准确性.md)
+- [x] [如何解决消费订单重复支付问题.md](note/如何解决消费订单重复支付问题.md)
 
 # 数据方案
 - [x] [Vertica数据清理.md](note/Vertica数据清理.md)
