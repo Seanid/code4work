@@ -34,9 +34,10 @@
 # 数据方案
 - [x] [Vertica数据清理.md](note/Vertica数据清理.md)
 
-# 生产排查
+# 生产排查与工作记录
 - [x] [记一次rsync的io问题排查.md](note/记一次rsync的io问题排查.md)
 - [x] [JDK版本不同导致的SSL异常.md](note/JDK版本不同导致的SSL异常.md)
+- [x] [多系统用户信息迁移同步.md](note/多系统用户信息迁移同步.md)
 
 # 老八股
 - [x] [Arraylist的foreach过程中不能删除元素的原因.md](note/Arraylist的foreach过程中不能删除元素的原因.md)
