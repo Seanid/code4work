@@ -20,6 +20,8 @@
 
 # 老八股
 - [x] [Arraylist的foreach过程中不能删除元素的原因.md](note/Arraylist的foreach过程中不能删除元素的原因.md)
+- [x] [线上CPU飙升异常排查.md](note/线上CPU飙升异常排查.md)
+- [x] [mysql的mvcc多版本控制.md](note/mysql的mvcc多版本控制.md)
 
 # 其他
 - [x] [老旧项目基于cookie的多系统登录解决方案.md](note/老旧项目基于cookie的多系统登录解决方案.md)
