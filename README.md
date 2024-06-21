@@ -10,9 +10,6 @@
 - [x] [如何解决消费订单重复支付问题.md](note/如何解决消费订单重复支付问题.md)
 - [x] [如何解决由于客户端网络差的原因导致的转化率差的问题.md](note/如何解决由于客户端网络差的原因导致的转化率差的问题.md)
 
-# 数据方案
-- [x] [Vertica数据清理.md](note/Vertica数据清理.md)
-
 # 生产排查与工作记录
 - [x] [记一次rsync的io问题排查.md](note/记一次rsync的io问题排查.md)
 - [x] [JDK版本不同导致的SSL异常.md](note/JDK版本不同导致的SSL异常.md)
@@ -21,7 +18,13 @@
 # 老八股
 - [x] [Arraylist的foreach过程中不能删除元素的原因.md](note/Arraylist的foreach过程中不能删除元素的原因.md)
 - [x] [线上CPU飙升异常排查.md](note/线上CPU飙升异常排查.md)
-- [x] [mysql的mvcc多版本控制.md](note/mysql的mvcc多版本控制.md)
+
+
+
+# 数据库
+- [x] [Vertica数据清理.md](note/Vertica数据清理.md)
+- [x] [mysql的mvcc多版本控制.md](note/MySQL的mvcc多版本控制)
+- [x] [MySQL的锁.md](note/MySQL的锁.md)
 
 # 其他
 - [x] [老旧项目基于cookie的多系统登录解决方案.md](note/老旧项目基于cookie的多系统登录解决方案.md)
