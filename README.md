@@ -25,6 +25,7 @@
 - [x] [Vertica数据清理.md](note/Vertica数据清理.md)
 - [x] [mysql的mvcc多版本控制.md](note/MySQL的mvcc多版本控制)
 - [x] [MySQL的锁.md](note/MySQL的锁.md)
+- [x] [MySQL Innodb基于日志体系的数据安全方案.md](note/MySQL Innodb基于日志体系的数据安全方案.md)
 
 # 其他
 - [x] [老旧项目基于cookie的多系统登录解决方案.md](note/老旧项目基于cookie的多系统登录解决方案.md)
